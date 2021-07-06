@@ -12,7 +12,7 @@
 <li>💬 Ping me about <strong>Svelte, Vue, security, and cloud stuff</strong>.</li>
 </ul>
 
-<h2>🚀 Some Tools I Use</h2>
+<h2>🚀 Stuff I :heart: working with</h2>
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
