@@ -8,8 +8,8 @@
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/niketpathak">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://digitalfortress.tech">my blog</a>.</li>
-<li>🌎 You can checkout some of my personal projects - <a href="https://gospelmusic.io">GospelMusic</a> and <a href="https://fusionplatter.eu">Fusion Platter</a>.</li>
-<li>💬 Ping me about <strong>React, Svelte, Vue, security, and cloud stuff</strong>.</li>
+<li>🌎 You can checkout some of my personal projects - <a href="https://karaokecraft.com">KaraokeCraft</a>, <a href="https://gospelmusic.io">GospelMusic</a>, <a href="https://fusionplatter.eu">Fusion Platter</a>.</li>
+<li>💬 Ping me about <strong>Architecture, Security and/or AI</strong>.</li>
 </ul>
 
 <h2>🚀 Stuff I :heart: working with</h2>
